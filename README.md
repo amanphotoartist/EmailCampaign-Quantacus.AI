@@ -77,7 +77,7 @@ Clone the repository from GitHub
 
 Upload the required CSVs into your environment (email_table.csv, email_opened_table.csv, link_clicked_table.csv)
 
-Open the Jupyter notebook EmailCampaign_Quantusai.ipynb
+Open the Jupyter notebook EmailCampaign_Quantacus.AI.ipynb
 
 Run all cells step-by-step to execute the complete pipeline
 
